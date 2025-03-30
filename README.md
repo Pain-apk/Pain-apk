@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+![Funny Cat](https://github.com/your-username/your-repo/blob/main/path-to-your-gif/funny-cat.gif)
 <h3 align="center">A passionate about Robotics & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="pain-apk" /> </p>
