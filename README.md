@@ -2,10 +2,10 @@
 <table>
   <tr>
     <td>
-       <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya" width="300" height="300" border="2px"/>
+       <img src="https://github.com/Pain-apk/Pain-apk/blob/main/b473b74baddec4ce9604f9a23fcbf0d1.gif" alt="Aditya" width="300" height="300" border="2px"/>
     </td>
     <td>
-      <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="300" height="300" border="2px"/>
+      <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="650" height="300"/>
       </td>
   </tr>
 </table>
