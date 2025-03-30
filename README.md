@@ -1,31 +1,33 @@
-# Project Title
-
-![Project Image](https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif)
-
+<!-- Adjusted GIF size with width and height attributes -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="pain-apk" />
+  <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="600" height="300" border="2px"/>
 </p>
 
-## Description
+<h3 align="center">A passionate about Robotics & AI</h3>
 
-A passionate about Robotics & AI.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="pain-apk" /> </p>
 
-## Table of Contents
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pain-apk" alt="pain-apk" /></a> </p>
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Installation
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-```sh
-# Clone the repo
-git clone https://github.com/Pain-apk/Pain-apk.git
-
-# Navigate to the project directory
-cd Pain-apk
-
-# Install dependencies
-npm install
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+ ▋
