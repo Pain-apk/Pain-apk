@@ -1,6 +1,6 @@
 <!-- Adjusted GIF size with width and height attributes -->
-<p align="center">
-  <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="800" height="200"/>
+<p align="right">
+  <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="600" height="300"/>
 </p>
 
 <h3 align="center">A passionate about Robotics & AI</h3>
