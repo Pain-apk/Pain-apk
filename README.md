@@ -1,4 +1,4 @@
-![Funny Cat](https://github.com/your-username/your-repo/blob/main/path-to-your-gif/funny-cat.gif)
+![Aditya](https://github.com/Pain-apk/Pain-apk/blob/main/standard.gif)
 <h3 align="center">A passionate about Robotics & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="pain-apk" /> </p>
