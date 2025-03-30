@@ -1,9 +1,14 @@
-<p align="left">
-  <img src="https://github.com/Pain-apk/Pain-apk/blob/main/b473b74baddec4ce9604f9a23fcbf0d1.gif" alt="Aditya" width="100" height="200" border="2px"/>
-</p>
-<p align="right">
-  <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="600" height="200" border="2px"/>
-</p>
+<!-- Adjusted GIF size with width and height attributes -->
+<table>
+  <tr>
+    <td>
+       <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya" width="300" height="300" border="2px"/>
+    </td>
+    <td>
+      <img src="https://github.com/Pain-apk/Pain-apk/blob/main/standard%20(1).gif" alt="Aditya" width="300" height="300" border="2px"/>
+      </td>
+  </tr>
+</table>
 <h3 align="center">A passionate about Robotics & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pain-apk&label=Profile%20views&color=0e75b6&style=flat" alt="pain-apk" /> </p>
