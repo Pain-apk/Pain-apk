@@ -35,10 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pain-apk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pain-apk&theme=radical&column=7&no-frame=true&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
-</div>
-
 <h1></h1>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
